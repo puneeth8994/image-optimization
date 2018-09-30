@@ -11,10 +11,10 @@ This snippet focusses on optimizing high resolution images and then uploading th
 Requires the following dependencies to work properly:
 
 * [sharp](https://github.com/lovell/sharp) - To process the images
-* [human-readable-ids](https://www.npmjs.com/package/human-readable-ids) - To give funny names to your files
+* [human-readable-ids](https://www.npmjs.com/package/human-readable-ids) - To give funny names to your files.
 * [multiparty](https://www.npmjs.com/package/multiparty) - To parse incoming HTTP requests.
-* [aws-sdk](https://www.npmjs.com/package/aws-sdk) - TO create aws instance for file upload
-* [s3-upload-stream](https://www.npmjs.com/package/s3-upload-stream) - To upload stream of data to aws through piping
+* [aws-sdk](https://www.npmjs.com/package/aws-sdk) - To create aws instance for file upload.
+* [s3-upload-stream](https://www.npmjs.com/package/s3-upload-stream) - To upload stream of data to aws through piping.
 
 ### Installation
 

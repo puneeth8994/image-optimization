@@ -1,0 +1,26 @@
+{
+  "name": "image-optimization-lib",
+  "version": "1.0.0",
+  "description": "Image optimization lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puneeth8994/image-optimization.git"
+  },
+  "author": "Puneeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puneeth8994/image-optimization/issues"
+  },
+  "homepage": "https://github.com/puneeth8994/image-optimization#readme",
+  "dependencies": {
+    "aws-sdk": "^2.325.0",
+    "human-readable-ids": "^1.0.4",
+    "multiparty": "^4.2.1",
+    "s3-upload-stream": "^1.0.7",
+    "sharp": "^0.20.8"
+  }
+}
